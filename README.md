@@ -60,7 +60,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 and Python 3.9 (https://www.python.org/) and Flask 2.2(https://flask.palletsprojects.com)
 
 IDE Used Pycharm/VScode
-create an Angular/python project folder => create virtual environment => npm install => install angularCLI =>  install pandas => install Flask => install pandas
+create an Angular/python project folder => create virtual environment => npm install => install angularCLI =>  install pandas => install Flask
 
 ## Development server
 Run (main.py) for a dev server. Navigate to `http://127.0.0.1:5000`. The application will automatically reload if you change any of the source files.
