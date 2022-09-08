@@ -78,9 +78,9 @@ Install flask: pip install flask
 
 Install pandas: pip install pandas
 
-npm install @angular/CLI
+npm install -g @angular/cli
 
-npm install typescript
+npm install -g typescript
 
 ## Development server
 Run (main.py) for a dev server. Navigate to `http://127.0.0.1:5000`. The application will automatically reload if you change any of the source files.
