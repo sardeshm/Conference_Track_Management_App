@@ -59,8 +59,14 @@ Track 2:
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)version 14.2.2.
 and Python 3.9 (https://www.python.org/) and Flask 2.2(https://flask.palletsprojects.com)
 
-IDE Used Pycharm/VScode
-create an Angular/python project folder => create virtual environment => npm install => install angularCLI =>  install pandas => install Flask
+In PyCharm (Community Edition) start "new_project" with Virtualenv but without main.py
+Download Zip project from github "code" menu and save to local drive
+Extract the content of downloaded zip file to "new_project" directory
+open the new_project" folder in PyCharm and go to the PyCharm Terminal
+install flask: pip install flask
+install pandas: pip install pandas
+npm install @angular/CLI
+npm install typescript
 
 ## Development server
 Run (main.py) for a dev server. Navigate to `http://127.0.0.1:5000`. The application will automatically reload if you change any of the source files.
