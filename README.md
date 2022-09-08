@@ -54,18 +54,32 @@ Track 2:
 05:00PM Networking Event
 
 
+## Tech
+
+This project was generated with:
+
+Angular CLI(https://github.com/angular/angular-cli)version 14.2.2.
+
+Python 3.9 (https://www.python.org/)
+
+Flask 2.2(https://flask.palletsprojects.com)
+
 ## ConfTr
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli)version 14.2.2.
-and Python 3.9 (https://www.python.org/) and Flask 2.2(https://flask.palletsprojects.com)
-
 In PyCharm (Community Edition) start "new_project" with Virtualenv but without main.py
+
 Download Zip project from github "code" menu and save to local drive
+
 Extract the content of downloaded zip file to "new_project" directory
-open the new_project" folder in PyCharm and go to the PyCharm Terminal
-install flask: pip install flask
-install pandas: pip install pandas
+
+open the new_project" folder in PyCharm and go to the PyCharm Virtualenv Terminal
+
+Install flask: pip install flask
+
+Install pandas: pip install pandas
+
 npm install @angular/CLI
+
 npm install typescript
 
 ## Development server
