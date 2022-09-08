@@ -66,5 +66,5 @@ create an Angular/python project folder => create virtual environment => npm ins
 Run (main.py) for a dev server. Navigate to `http://127.0.0.1:5000`. The application will automatically reload if you change any of the source files.
 
 ## App preview
-<pdf src ="pdf/ConTr_preview">
+![](path/to/ConfTr_preview.jpg)
 
