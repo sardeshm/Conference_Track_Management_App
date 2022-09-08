@@ -1,0 +1,19 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>ConfTr</title>
+  <base href="/static/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.ef46db3751d8e999.css"></head>
+<body>
+<div class=page>
+  <h1>Conference Tracks</h1>
+  {% for table in tables %}
+    <h2>{{titles[loop.index]}}</h2>
+    {{ table|safe }}
+  {% endfor %}
+</div>
+  <app-root></app-root>
+<script src="runtime.3058aa74178274f8.js" type="module"></script><script src="polyfills.14796eb3e3cb9837.js" type="module"></script><script src="main.154078dac4bd2841.js" type="module"></script>
+
+</body></html>
