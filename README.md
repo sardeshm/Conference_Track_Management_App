@@ -70,7 +70,7 @@ In PyCharm (Community Edition) start "new_project" with Virtualenv but without m
 
 Download Zip project from github "code" menu and save to local drive
 
-Extract the content of downloaded zip file (content of unzipped parent drectory) to "new_project" directory
+Extract the content of downloaded zip file (content of unzipped parent directory) to "new_project" directory
 
 Open the new_project" folder in PyCharm and go to the PyCharm Virtualenv Terminal
 
